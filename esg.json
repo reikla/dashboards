@@ -2994,7 +2994,7 @@
       {
         "hide": 2,
         "name": "graphqlurl",
-        "query": "http://octo-mesh-asset-rep-services.octo.svc.cluster.local/tenants/esg/graphQl",
+        "query": "http://octo-mesh-asset-rep-services.octo.svc.cluster.local/tenants/meshtest/graphQl",
         "skipUrlSync": false,
         "type": "constant"
       },
